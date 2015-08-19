@@ -36,7 +36,7 @@
                 android:layout_centerVertical="true"
                 android:background="@android:color/transparent"
                 android:padding="16dp"
-                android:src="@drawable/ac_wizard_back"/>
+                android:src="@drawable/cropimage_ac_wizard_back"/>
 
             <ImageButton
                 android:id="@+id/save"
@@ -47,7 +47,7 @@
                 android:layout_centerVertical="true"
                 android:background="@android:color/transparent"
                 android:padding="16dp"
-                android:src="@drawable/ac_wizard_done"/>
+                android:src="@drawable/cropimage_ac_wizard_done"/>
         </RelativeLayout>
 
         <view class="com.android.camera.CropImageView" android:id="@+id/image"
